@@ -1,0 +1,20 @@
+body{
+    background-color:#fff7f0;
+}
+
+h1{
+    color: green;
+}
+
+.inside{
+    background-color: 	#c3d3d4;
+    text-align: center;
+    margin: 200px;
+    padding: 2px;
+}
+
+.foot{
+    text-align: center;
+    color: black;
+}
+
